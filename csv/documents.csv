@@ -1,13 +1,43 @@
-_id,doc_id,interaction_id,doc_title,doc_position,doc_page_viewed,createdAt,updatedAt,__v
-65f9b9bb4c7a4838bcb51881,DNDuuB7XFFQJ,671330bf-7d9a-4e40-a581-cdd654aefd55,Fossil Fuels: The Dirty Facts,1,1,2024-03-19 16:13:47.463,2024-03-19 16:13:47.463,0
-65f9b9be4c7a4838bcb51883,JFterFwuzeEJ,671330bf-7d9a-4e40-a581-cdd654aefd55,"Fact Sheet | Climate, Environmental, and Health Impacts of Fossil ...",3,1,2024-03-19 16:13:50.661,2024-03-19 16:13:50.661,0
-65f9b9e64c7a4838bcb51885,FCCGX17YItkJ,671330bf-7d9a-4e40-a581-cdd654aefd55,Natural gas and the environment - U.S. Energy Information ...,3,2,2024-03-19 16:14:30.543,2024-03-19 16:14:30.543,0
-65f9ba874c7a4838bcb5188b,3HRh1i2D9gYJ,671330bf-7d9a-4e40-a581-cdd654aefd55,The Pros and Cons Of Solar Energy (2024 Guide) – Forbes Home,7,1,2024-03-19 16:17:11.195,2024-03-19 16:17:11.195,0
-65f9bc6d4c7a4838bcb51897,WsAkANfJ91IJ,8ff4cdd3-65bc-4738-8c44-9dba3078423f,High blood pressure (hypertension) - Causes - NHS,1,1,2024-03-19 16:25:17.274,2024-03-19 16:25:17.274,0
-65f9bc954c7a4838bcb51899,,8ff4cdd3-65bc-4738-8c44-9dba3078423f,High blood pressure (hypertension) - Symptoms & causes - Mayo ...,2,1,2024-03-19 16:25:57.282,2024-03-19 16:25:57.282,0
-65f9bda84c7a4838bcb518ad,bPhM5ENQYrcJ,2203bcc5-b4f5-4bdc-9af4-b86fe400c9cf,List of Top Ten Most Dangerous Ants in the World,1,1,2024-03-19 16:30:32.679,2024-03-19 16:30:32.679,0
-65f9beb44c7a4838bcb518c2,woHuwkcrMb0J,b4cf493e-15e3-477d-b3aa-e12d41bc59eb,High Blood Pressure Symptoms and Causes | cdc.gov,1,1,2024-03-19 16:35:00.973,2024-03-19 16:35:00.973,0
-65f9bf564c7a4838bcb518ce,vlRvT-sG83YJ,6c7b5317-3648-462f-8ce9-33dc0787bbb3,Common Pest Species of Ants — Extension and Outreach ...,4,1,2024-03-19 16:37:42.372,2024-03-19 16:37:42.372,0
-65f9bf694c7a4838bcb518d5,pX5UHleJ1BwJ,6c7b5317-3648-462f-8ce9-33dc0787bbb3,Blog - Top 8 Most Dangerous Ants Of All Time,1,1,2024-03-19 16:38:01.512,2024-03-19 16:38:01.512,0
-65f9c04e4c7a4838bcb518e5,MMDXL6jnjGMJ,d08655ac-e7c2-4d17-925a-2b8c168243fc,What Are the Main Disadvantages of Fossil Fuels? | EnergySage,2,1,2024-03-19 16:41:50.418,2024-03-19 16:41:50.418,0
-65f9c0774c7a4838bcb518e9,F5ejxZ27ri8J,d08655ac-e7c2-4d17-925a-2b8c168243fc,What Are The Main Disadvantages Of Solar Energy?,1,2,2024-03-19 16:42:31.919,2024-03-19 16:42:31.919,0
+_id,interaction_id,doc_title,doc_position,doc_page_viewed,createdAt,updatedAt,__v,doc_id
+65fb3e42eddf897ea3091a8b,dcb1798d-2140-4b78-bae0-5e2d6808199c,High blood pressure (hypertension) - Symptoms & causes - Mayo ...,1,1,2024-03-20 19:51:30.771,2024-03-20 19:51:30.771,0,
+65fb540472a34e612b78e6f1,87a4d351-4a6e-4297-a71f-f474e52524c4,"Fire ant bites: Treatment, symptoms, what they look like",4,1,2024-03-20 21:24:20.830,2024-03-20 21:24:20.830,0,_C4HIP5W824J
+65fb556c72a34e612b78e6fd,be9ee781-7a82-4e58-95d3-8e0752ef8b1a,A Detailed Review Study on Potential Effects of Microplastics and ...,1,1,2024-03-20 21:30:20.209,2024-03-20 21:30:20.209,0,
+65fb57c472a34e612b78e709,d5ad368c-ec73-4e18-855c-4abd9c52f6a8,High blood pressure in adults - hypertension: MedlinePlus Medical ...,1,1,2024-03-20 21:40:20.066,2024-03-20 21:40:20.066,0,92lx7oh0LwoJ
+65fb59d472a34e612b78e717,27b20136-f946-4c3b-be3c-63f8da9c4e46,Solar Energy vs Fossil Fuels: How Do They Compare? | EnergySage,1,1,2024-03-20 21:49:08.299,2024-03-20 21:49:08.299,0,obBzCN408dUJ
+65fb59ec72a34e612b78e719,27b20136-f946-4c3b-be3c-63f8da9c4e46,Efficiency of Solar Panels compared to Fossil Fuels,3,1,2024-03-20 21:49:32.476,2024-03-20 21:49:32.476,0,LOC2VQtIQ_AJ
+65fbd942bfa874c7f4238ced,58044e06-3255-4dbb-bbbd-14de28c2a9f9,Species of Fire Ants in the United States | Orkin,2,1,2024-03-21 06:52:50.500,2024-03-21 06:52:50.500,0,NcDZp_0RB_YJ
+65fbf2b955a41b477058a780,e4e0169e-faaa-47b8-b60a-35c0a86cd1bb,Are Artificial Food Additives Harmful to Your Health?,3,1,2024-03-21 08:41:29.618,2024-03-21 08:41:29.618,0,9zuu0R034gUJ
+65fbf2c755a41b477058a782,e4e0169e-faaa-47b8-b60a-35c0a86cd1bb,"Hazard Classification Guidance for Manufacturers, Importers, and ...",1,1,2024-03-21 08:41:43.983,2024-03-21 08:41:43.983,0,
+65fbf2d255a41b477058a784,e4e0169e-faaa-47b8-b60a-35c0a86cd1bb,Are Artificial Food Additives Harmful to Your Health?,3,1,2024-03-21 08:41:54.939,2024-03-21 08:41:54.939,0,9zuu0R034gUJ
+65fbf2d655a41b477058a788,e4e0169e-faaa-47b8-b60a-35c0a86cd1bb,Food labels - Better Health Channel,2,1,2024-03-21 08:41:58.120,2024-03-21 08:41:58.120,0,Ew59AyL0FqIJ
+65fc01e30b43e64c1851bdc9,29e61fc7-7f01-44d9-9507-1f7624a336cf,The Pros and Cons Of Solar Energy (2024 Guide) – Forbes Home,1,1,2024-03-21 09:46:11.027,2024-03-21 09:46:11.027,0,3HRh1i2D9gYJ
+65fc01e50b43e64c1851bdcb,29e61fc7-7f01-44d9-9507-1f7624a336cf,The Pros and Cons of Solar Energy | Constellation,2,1,2024-03-21 09:46:13.728,2024-03-21 09:46:13.728,0,vyUGIzOIUHgJ
+65fc0dcda7cb0f6660550c3a,584586b3-9fa3-4bed-ae98-0c75c65c5541,High Blood Pressure Symptoms and Causes | cdc.gov,1,1,2024-03-21 10:37:01.951,2024-03-21 10:37:01.951,0,woHuwkcrMb0J
+65fc0ddba7cb0f6660550c3c,584586b3-9fa3-4bed-ae98-0c75c65c5541,High blood pressure (hypertension) - Symptoms & causes - Mayo ...,2,1,2024-03-21 10:37:15.745,2024-03-21 10:37:15.745,0,
+65fc0deca7cb0f6660550c3e,584586b3-9fa3-4bed-ae98-0c75c65c5541,What Causes High Blood Pressure? | National Kidney Foundation,5,1,2024-03-21 10:37:32.380,2024-03-21 10:37:32.380,0,J2r0ELKhavcJ
+65fc0e1aa7cb0f6660550c40,584586b3-9fa3-4bed-ae98-0c75c65c5541,"Causes of High Blood Pressure - Risk Factors: Weight, Diet, Age ...",7,1,2024-03-21 10:38:18.245,2024-03-21 10:38:18.245,0,TpreaBfGPgkJ
+65fc0e43a7cb0f6660550c48,0648c803-2d73-42c0-8297-6cb6c73a3647,What Causes High Blood Pressure? | National Kidney Foundation,5,1,2024-03-21 10:38:59.313,2024-03-21 10:38:59.313,0,J2r0ELKhavcJ
+65fc0ebea7cb0f6660550c54,9e557823-8ff6-42a1-a0d0-d40a9f55941f,List of ant genera - Wikipedia,1,1,2024-03-21 10:41:02.535,2024-03-21 10:41:02.535,0,
+65fc0ed3a7cb0f6660550c56,9e557823-8ff6-42a1-a0d0-d40a9f55941f,Common Pest Species of Ants — Extension and Outreach ...,2,1,2024-03-21 10:41:23.754,2024-03-21 10:41:23.754,0,vlRvT-sG83YJ
+65fc0f75a7cb0f6660550c64,55cc8a31-8269-4209-80fd-b570638cde7f,"Renewable Energy Definition - Sources, Clean Alternatives",1,1,2024-03-21 10:44:05.732,2024-03-21 10:44:05.732,0,hGZdgF3n0-oJ
+65fc1050a7cb0f6660550c70,c5105449-e6cb-49aa-b9bb-52a8919cd2d8,1910.1200 - Hazard Communication. | Occupational Safety and ...,1,1,2024-03-21 10:47:44.066,2024-03-21 10:47:44.066,0,felrN-Kkb9gJ
+65fc105fa7cb0f6660550c72,c5105449-e6cb-49aa-b9bb-52a8919cd2d8,Food labels - Better Health Channel,2,1,2024-03-21 10:47:59.942,2024-03-21 10:47:59.942,0,Ew59AyL0FqIJ
+65fc26c87c343b1278a82a11,734d074a-2bf5-47c3-842a-6f0edd448b05,Southern fire ant,1,1,2024-03-21 12:23:36.972,2024-03-21 12:23:36.972,0,J8HU9xmkG9kJ
+65fc27847c343b1278a82a1d,67fb616b-1e75-47b2-bd1b-aaae68c32be4,12 Common Food Additives — Should You Avoid Them?,5,1,2024-03-21 12:26:44.673,2024-03-21 12:26:44.673,0,LSIgjpMjPQ4J
+65fc27b57c343b1278a82a21,67fb616b-1e75-47b2-bd1b-aaae68c32be4,Food labels - Better Health Channel,1,1,2024-03-21 12:27:33.167,2024-03-21 12:27:33.167,0,Ew59AyL0FqIJ
+65fc28477c343b1278a82a2d,6d45b434-fb9a-4f91-8570-f77f2aad80e6,High Blood Pressure Symptoms and Causes | cdc.gov,1,1,2024-03-21 12:29:59.191,2024-03-21 12:29:59.191,0,woHuwkcrMb0J
+65fc38079794d7470f14098b,3014fd60-633f-4f48-897c-e26c215a9e8f,Are Artificial Food Additives Harmful to Your Health?,1,1,2024-03-21 13:37:11.555,2024-03-21 13:37:11.555,0,9zuu0R034gUJ
+65fc38709794d7470f14098f,3014fd60-633f-4f48-897c-e26c215a9e8f,Common food additives and chemicals harmful to children - Harvard ...,1,1,2024-03-21 13:38:56.949,2024-03-21 13:38:56.949,0,kgQsgxJvDlQJ
+65fd51d77d88869ed14fdc33,a8d1150e-a767-4087-ba72-3f06ac8ac55c,"Ant Bites: Symptoms, Treatment, Prevention & Pictures",1,1,2024-03-22 09:39:35.005,2024-03-22 09:39:35.005,0,x_4pal3VboMJ
+65fd53077d88869ed14fdc3f,c43b4643-6b9f-4af1-9b3d-ec945f38f408,A Detailed Review Study on Potential Effects of Microplastics and ...,1,1,2024-03-22 09:44:39.644,2024-03-22 09:44:39.644,0,
+65fd54177d88869ed14fdc4f,ab1deb51-6222-4c2c-bd1c-40a6c15424af,High Blood Pressure Symptoms and Causes | cdc.gov,1,1,2024-03-22 09:49:11.800,2024-03-22 09:49:11.800,0,woHuwkcrMb0J
+65fd55a07d88869ed14fdc69,e36a0579-40e2-4669-b48e-35aa2495393b,Understanding Blood Pressure Readings | American Heart ...,1,1,2024-03-22 09:55:44.464,2024-03-22 09:55:44.464,0,4-_O6lYJz1sJ
+65fef8978808b5e176f86256,e2521f7e-852f-483d-a302-29575d49100c,High Blood Pressure Symptoms and Causes | cdc.gov,1,1,2024-03-23 15:43:19.933,2024-03-23 15:43:19.933,0,woHuwkcrMb0J
+65fef9098808b5e176f8625e,f9b84e3c-8732-473b-a092-16a3b4ef55e1,Active Solar Heating | Department of Energy,1,1,2024-03-23 15:45:13.721,2024-03-23 15:45:13.721,0,Wt4KxEWs6YkJ
+65fef9d18808b5e176f8626c,69c56bba-b6c9-4aad-a10d-ecc3a1e9be60,"Fire Ant Bites: What They Look Like, Treatment & Home Remedies",3,1,2024-03-23 15:48:33.293,2024-03-23 15:48:33.293,0,Cz74W9m56k4J
+65fef9ed8808b5e176f86276,1df7fa24-cbdc-4daf-9e5a-21c676ca1c2e,High Blood Pressure Symptoms and Causes | cdc.gov,1,1,2024-03-23 15:49:01.851,2024-03-23 15:49:01.851,0,woHuwkcrMb0J
+65fefa1d8808b5e176f8627c,1df7fa24-cbdc-4daf-9e5a-21c676ca1c2e,High blood pressure (hypertension) - Causes - NHS,3,1,2024-03-23 15:49:49.142,2024-03-23 15:49:49.142,0,WsAkANfJ91IJ
+65fffa06c88a726268bec2b8,17bc06ea-cb2c-4cc1-9e55-b55bd3b76edc,High blood pressure in adults - hypertension: MedlinePlus Medical ...,1,1,2024-03-24 10:01:42.721,2024-03-24 10:01:42.721,0,92lx7oh0LwoJ
+6600199958ea0c299cd8fff5,8014fe99-010b-4fc4-a73e-533a9c52ae44,Fast Food Nation,2,1,2024-03-24 12:16:25.135,2024-03-24 12:16:25.135,0,boYvBwMXZYoJ
+66001a7b58ea0c299cd90001,9f3b5a43-dee9-418a-8686-be796c2c6848,Active Solar Heating | Department of Energy,1,1,2024-03-24 12:20:11.089,2024-03-24 12:20:11.089,0,Wt4KxEWs6YkJ
+66001c2758ea0c299cd90017,44283de1-25ce-46d1-8bed-3395103a3595,High Blood Pressure Symptoms and Causes | cdc.gov,1,1,2024-03-24 12:27:19.172,2024-03-24 12:27:19.172,0,woHuwkcrMb0J
